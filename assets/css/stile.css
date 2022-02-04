@@ -1,0 +1,102 @@
+html{ 
+    font-size: 62.5%; 
+}
+
+body{
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.8rem;
+    color: grey;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0;
+    padding-top: 70px;
+    color: #25a2c3;
+    font-size: 2em;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+p{
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    font-size: 1.4rem;
+}
+
+/* HEADER */
+header{
+    background-color: black;
+    text-align: center;
+    padding: 30px 0px 50px;
+    margin-bottom: 0px;
+}
+
+
+/* MAIN */
+
+#sfondo {
+    background-image: url(../images/banner.jpg);
+    width: 100%;
+    background-position: center;
+    background-position: center;
+    padding-top: 0px;
+    padding-bottom: 80px;
+}
+
+#button{
+    background-color: #e22d0e;
+    color: #fff;
+    width: 100%;
+    padding: 5px 10%;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+
+main aside {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+#notebook{
+    border-radius: 100%;
+}
+
+#epicode-garantisce {
+    background-color: #e22d0e;
+    color: #fff;
+    padding: 30px 0px;
+}
+
+article div {
+    display: inline-block;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    max-width: 640px;
+}
+
+
+/* FOOTER */
+
+footer{
+    background-color: #25a2c3 ;
+    color: #fff;
+    padding: 30px 70px ;
+}
+
+.icon:before {
+    font-family: FontAwesome;
+    color: red;
+}
+
